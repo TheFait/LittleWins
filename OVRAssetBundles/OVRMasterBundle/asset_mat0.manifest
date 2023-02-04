@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1233960460
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ef14a36352a9a899507df2906b5b73a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9f3d136959ac0e7043e721e899342fb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/VR/Materials/BasicHandMaterial.mat
+- Assets/Materials/Beam_white_Add.mat
+- Assets/Materials/ClearBlack.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHand.mat
+- Assets/Materials/ClearBlue.mat
+Dependencies:
+- C:/Users/bdw73/Documents/Development/Unity/LittleWins/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/bdw73/Documents/Development/Unity/LittleWins/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/bdw73/Documents/Development/Unity/LittleWins/OVRAssetBundles/OVRMasterBundle/asset_shadergraph0
